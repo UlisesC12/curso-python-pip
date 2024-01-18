@@ -1,3 +1,5 @@
+# HOW TO SET UP
+
 ## Game Project
 
 Para correr el juego debes de seguir las siguientes instrucciones en la terminal:
